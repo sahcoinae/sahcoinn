@@ -13,7 +13,7 @@ about the ṢaḥCoin smart contract, tokenomics, and project roadmap.
 - Liquidity: QuickSwap (S/WPOL)
 
 ## Official Links
-- Website: https://sahcoinkm.nitfly.app
+- Website: https://calm-horse-945085.netlify.app/
 - Telegram: https://t.me/sahcoincommunity
 - GeckoTerminal: https://www.geckoterminal.com/polygon_pos/pools/0x86ad7f2cfccd2127ea536987b9a7c990041901fd
 
